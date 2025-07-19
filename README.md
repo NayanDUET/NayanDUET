@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nayan Chandra</h1>
-<h3 align="center">👋 Hi, I'm Nayan Chandra, a passionate backend development learner from Bangladesh.
-💻 I'm currently focused on building projects using Node.js, Express.js, and MongoDB.
-🚀 I enjoy solving real-world problems and continuously improving my coding and system design skills.
-📚 I'm also exploring DevOps, aiming to become a well-rounded backend engineer.
-💡 I'm a quick learner, always open to collaboration, feedback, and contributing to open-source projects.
-📬 Feel free to connect with me or check out my latest work below!</h3>
-
-
+<h3 align="center">👋 Hi, I'm Nayan Chandra, a passionate backend development learner from Bangladesh.</h3>
+<ul>
+  <li>💻 I'm currently focused on building projects using Node.js, Express.js, and MongoDB.</li>
+  <li>🚀 I enjoy solving real-world problems and continuously improving my coding and system design skills.</li>
+  <li>💡 I'm a quick learner, always open to collaboration, feedback, and contributing to open-source projects.</li>
+   <li>📬 Feel free to connect with me or check out my latest work below!</h3></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
